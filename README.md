@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dendy Putra Pratama</h1>
 <h3 align="center">A passionate Full Stack developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjeWx0ZWswZjAyN2x4eThpd2wxM2h0dDc4c2RjZW5qaTlocjB3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjeWx0ZWswZjAyN2x4eThpd2wxM2h0dDc4c2RjZW5qaTlocjB3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouxvre&label=Profile%20views&color=0e75b6&style=flat" alt="ouxvre" /> </p>
 
