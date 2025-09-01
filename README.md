@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Full Stack Developer**
 
-- 📫 How to reach me **ouxvre@gmail.com**
+- 📫 How to reach me **dendyputra.dev@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Crazy**
 
